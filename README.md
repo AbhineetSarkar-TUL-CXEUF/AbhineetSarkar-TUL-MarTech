@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I am Abhineet, a Frontend web developer with knowledge of latest web technologies. I am proficient in making full blown web applications and especially frontend part of it. I have made static as well as dynamic web pages using HTML, CSS, Javascript. I am proficient in Python, JavaScript and know core Java and C++.
 
 ___
-[![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhineetSarkar-TUL-MarTech&theme=gruvbox)](https://github.com/AbhineetSarkar-TUL-MarTech/github-readme-stats)
+[![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhineetSarkar-TUL-CXEUF&theme=gruvbox)](https://github.com/AbhineetSarkar-TUL-CXEUF/github-readme-stats)
 ***
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhineetSarkar-TUL-MarTech&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/AbhineetSarkar-TUL-MarTech/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhineetSarkar-TUL-CXEUF&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/AbhineetSarkar-TUL-CXEUF/github-readme-stats)
 
 ___
